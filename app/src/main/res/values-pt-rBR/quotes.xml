@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>"Temos que experimentar tristeza para reconhecer felicidade, a não ser que você tenha depressão, aí todos os dias são ruins.  "</item>
+        <item>"Você ganha algo sempre que você olha o medo nos olhos e diz: \“melhor eu ir embora\”."</item>
+        <item>"Se a imaginação é mais forte do que o conhecimento, eu não sei, mas prefiro que meu cardiologista tenha estudado mais do que imaginado."</item>
+        <item>"Caráter só pode ser obtido com tentativa e sofrimento, mas acho melhor deixar para amanhã."</item>
+        <item>"A aventura vale a pena, se for dentro dos padrões de segurança internacionais."</item>
+        <item>"Pais foram feitos para dar às crianças coisas que elas ignoram, como respeito e educação."</item>
+        <item>"Exija mais de si mesmo do que qualquer outro cobra de você. Com algumas drogas é possível lidar com a crescente pressão mental."</item>
+        <item>"Se você chegar a uma encruzilhada, consulte o GPS para verificar a direção certa."</item>
+        <item>"É possível que o universo esteja cheio de vida, mas vamos torcer para que não tenha e nos destrua."</item>
+        <item>"A vida consiste em jogar as cartas que te dão da melhor forma, mas se você começa com rei e às é bem mais fácil."</item>
+        <item>"Amor sem uma conversa é estranho. Desça dessa árvore e largue os binóculos."</item>
+        <item>"Se em dúvida, não faça. É uma boa forma de não fazer nada da vida."</item>
+        <item>"Gatos são uma boa lembrança que não somos os seres mais espertos da terra."</item>
+        <item>"Nada no mundo já foi completado sem paixão e dinheiro."</item>
+        <item>"Seja verdadeiro, ser pego na mentira é quase tão ruim quanto ser descoberto nazista."</item>
+        <item>"Xadrez é apenas mais uma forma de se sentir idiota."</item>
+        <item>"É melhor se manter limpo e transparente, como uma janela, já que a maioria das pessoas olha através de você."</item>
+        <item>"Toda música é como uma pintura, dizem que é arte e eu acho que eu faria melhor, se eu tivesse qualquer talento."</item>
+        <item>"Tive que viver no deserto para apreciar água encanada.\n  - Sobrevivente Anônimo"</item>
+        <item>"O verdadeiro conhecimento é realmente entender a extensão da nossa ignorância."</item>
+        <item>"Talvez esse mundo seja o inferno de outro planeta.\n - Aldous Huxley"</item>
+        <item>"Meu pai dizia que se você tivesse cinco amigos quando morresse, você morreu cedo."</item>
+        <item>"O único limite, é sua conta bancária"</item>
+        <item>"Estradas difíceis levam a lugares piores. "</item>
+        <item>"Não pare quando você está cansado, ou pare, não sou sua mãe."</item>
+        <item>"Temos que fazer valer cada dia, mas hoje tem Faustão."</item>
+        <item>"A vida é o que acontece enquanto estamos acordados."</item>
+        <item>"A vida é 10% o que acontece e 90% pensando nas besteiras que você falou."</item>
+        <item>"A esperança é a última que morre, a primeira é a paciência."</item>
+        <item>"Nossa grande fraqueza é tentar, se você não tentar, não tem como perder."</item>
+        <item>"Se você pode empurrar uma tarefa mais um dia, empurre."</item>
+        <item>"Se parece impossível, provavelmente é."</item>
+        <item>"Se as coisas estão ruim no trabalho, não tem muito o que fazer."</item>
+        <item>"Sempre faça seu melhor, a não ser que seja muito difícil, nesse caso deixe para lá."</item>
+        <item>"Não importa o quão devagar você vá, na verdade importa, se seus inimigos forem mais rápidos."</item>
+        <item>"Novo dia, mesmas preocupações."</item>
+        <item>"O passado não pode ser mudado, o futuro não parece melhor."</item>
+        <item>"Acredite em você, eu não vou acreditar."</item>
+        <item>"Escrever seus objetivos é a forma mais certa de se decepcionar quando você não completá-los."</item>
+        <item>"Sonhar é o único jeito de não se decepcionar."</item>
+        <item>"Se algo é muito importante, pague alguém para fazer para você."</item>
+        <item>"Abençoadas sejam as crianças, pois elas herdarão a dívida nacional."</item>
+        <item>"O viajante vê o que ele vê, o turista perde a câmera."</item>
+        <item>"Abençoado é o homem que não tem nada para falar."</item>
+        <item>"Mostre-me seu jardim que eu lhe direi "belo jardim"."</item>
+        <item>"Temos que deixar a vida que planejamos… Esquece, planeje sua vida."</item>
+        <item>"O maior presente da vida é a amizade e dinheiro."</item>
+        <item>"Aprecie cada minuto da sua vida, cada segundo, comece agora, está aproveitando? E agora? Essa é uma boa forma de criar uma ansiedade clínica."</item>
+        <item>"Sorria todo dia de frente para o espelho. Também escove os dentes."</item>
+        <item>"A vida não é sobre encontrar a si mesmo. É sobre: "</item>
+        <item>"A morte não é a pior perda da vida. A pior perda é o que morre dentro de nós enquanto vivemos.\n - Norman Cousins"</item>
+        <item>"Felicidade é uma escolha, assim como ser comunista."</item>
+        <item>"Nós somos o que repetidamente fazemos. Eu por exemplo, sou uma pedra."</item>
+        <item>"A melhor maneira de sair é sempre para fora."</item>
+        <item>"Na vida, não aguarde até o ferro quente te atingir. A não ser que você seja um bovino."</item>
+        <item>"Grandes almas sempre encontraram oposição violenta de caça-fantasmas."</item>
+        <item>"Se você acha que pode ou pensa que não pode, você está certo. - Henry Ford"</item>
+        <item>"Perdi mais de 9000 cestas na minha carreira. Perdi quase 300 jogos. 26 vezes, eu fui responsável pelo ponto decisivo e perdi.\n - Michael Jordan"</item>
+        <item>"O que você obtém alcançando seus objetivos não é tão importante quanto o amor que você tem pelo dinheiro."</item>
+        <item>"Você pode obter tudo na vida que deseja, se você não for burro."</item>
+        <item>"O que você faz será insignificante.\n - Mahatma Gandhi"</item>
+        <item>"O desejo é o ponto de partida de todas as conquistas, mas não é o bastante."</item>
+        <item>"A visão sem ação é sonhar acordado. A ação sem visão se chama cheque especial."</item>
+        <item>"Em qualquer situação, a melhor coisa que você pode fazer é a coisa certa; A próxima melhor é nada."</item>
+        <item>"Se você continua dizendo que as coisas vão ser ruins, você tem a chance de ser um profeta. -\n Isaac B. Singer"</item>
+        <item>"O sucesso consiste em ser bom."</item>
+        <item>"Continue indo e as chances são de que você tropeçará em algo, talvez quando você menos se espera. Nunca ouvi falar de ninguém tropeçar em algo sentado.\n - Charles F. Kettering"</item>
+        <item>"Vinte anos a partir de agora você ficará mais desapontado com as coisas que você não fez do que com as que você fez.\n - Mark Twain"</item>
+        <item>"Alguns conseguem porque estão destinados. Alguns conseguem porque estão determinados. A maioria não consegue."</item>
+        <item>"A experiência é o que você obtém quando não se obtém o que deseja.\n  - Dan Stanford"</item>
+        <item>"Se você quiser testar sua memória, tente lembrar o que você estava preocupando há cerca de um ano hoje.\n  - E. Joseph Cossman"</item>
+        <item>"Nós julgamos a sabedoria de um homem pelo quão chato ele é."</item>
+        <item>"A melhor maneira de se animar é usando remédios, a segunda melhor é animando alguém."</item>
+        <item>"A idade é uma questão de mente sobre a matéria. Você mente e os outros fingem que acreditam."</item>
+        <item>"Sempre que você se encontra do lado da maioria, é sinal que você está ganhando."</item>
+        <item>"Mantenha-se longe de pessoas que tentam minimizar suas ambições. A não ser que suas ambições sejam se tornar traficante."</item>
+        <item>"O caminho mais seguro para não falhar é ter sucesso."</item>
+        <item>"Dê o primeiro passo de fé, com sorte você não vai cair e quebrar sua perna."</item>
+        <item>"Aja ou aceite."</item>
+        <item>"Muitas ideias fantásticas não são executadas e muitos grandes executores estão sem ideias, porém, todos os executados estão mortos."</item>
+        <item>"O mundo é mais maleável do que você pensa, principalmente se você for rico."</item>
+        <item>"As pessoas tornam-se realmente bastante notáveis ​​quando começam a pensar que podem fazer coisas. Um pouco menos notáveis quando desistem."</item>
+        <item>"Para viver uma vida criativa, devemos perder o medo de morrer de fome. Embora seja o mais provável."</item>
+        <item>"Não arrisque o habitual pelo incomum."</item>
+        <item>"Pegue uma ideia. Faça essa ideia sua vida - pense nela, sonhe com isso, viva sobre essa ideia. Morra sozinho e decepcionado."</item>
+        <item>"Todos os nossos sonhos podem se tornar realidade se formos o Walt Disney. Inclusive pagando menos aos desenhistas."</item>
+        <item>"Sentar e esperar é a melhor forma de continuar seguro."</item>
+        <item>"Se você faz o que sempre fez, talvez você tenha uma aposentadoria no fim."</item>
+        <item>"Logo que a lagarta pensou que o mundo estava terminando, ela acertou."</item>
+        <item>"Sempre que você vê uma pessoa bem-sucedida, você só vê as glórias públicas, nunca as pessoas que ela pisou para chegar lá."</item>
+        <item>"Oportunidades não acontecem.\n  - Chris Grosser"</item>
+        <item>"Sempre que você encontrar todo o mundo contra você, provavelmente você está fazendo algo errado."</item>
+        <item>"Ser derrotado é apenas uma condição temporária; Desistir é o que o torna permanente.\n  - Marilyn vos Savant"</item>
+        <item>"Caia sete vezes, na oitava desista."</item>
+        <item>"A diferença entre ordinário e extraordinário é o extra na frente."</item>
+        <item>"Qualquer um pode fazer algo quando tem vontade e esse momento é o último possível."</item>
+        <item>"Há duas escolhas principais na vida: aceitar as condições como elas existem e aceitar as coisas como ela são."</item>
+        <item>"O sucesso parece estar relacionado com a ação. Muitas vezes ações na bolsa de valores."</item>
+        <item>"As atitudes são contagiosas. Como a gripe, você acaba na cama."</item>
+        <item>"Existem apenas duas regras para serem bem-sucedidas. Um, descubra exatamente o que você quer fazer, e dois, tenha tempo e dinheiro."</item>
+        <item>"Mais cedo ou mais tarde, aqueles que ganham são aqueles que deram sorte."</item>
+        <item>"A visão geralmente não vem como uma lâmpada, ela vem aos poucos até se considerar que é basicamente impossível realizá-la trabalhando oito horas por dia."</item>
+        <item>"O sucesso é um estado de espírito. Se você quer sucesso, comece a pensar em si mesmo como um sucesso, assim seu trabalho insuportável passa a se tornar um sucesso."</item>
+        <item>"As falhas fazem parte do menu da vida e eu nunca perdi uma porção."</item>
+        <item>"Os vencedores perdem muito mais frequentemente do que perdedores.\n  - Matthew Keith Groves"</item>
+        <item>"Uma ideia pode se transformar em pó ou magia, dependendo se você tem o moedor de magia ou de pimenta."</item>
+        <item>"Um obstáculo é muitas vezes um muro de Berlim."</item>
+        <item>"A vida é "tentar coisas para ver se elas funcionam"\n  - Ray Bradbury"</item>
+        <item>"Se você se preocupar com as falhas de ontem, é possível pagar as dívidas."</item>
+        <item>"Todos somos viajantes, cada um navegando em uma viagem de descoberta, muitas vezes saqueados por piratas e tendo seu navio naufragado, mas uma viagem."</item>
+        <item>"Penso e penso por meses e anos. Noventa e nove vezes, estou errado.\n - Albert Einstein"</item>
+        <item>"Onde a vontade é grande, as dificuldades também o são."</item>
+        <item>"O sucesso não deve ser medido pela posição que alguém atingiu na vida, mas a quantidade de coisas que ele possui."</item>
+        <item>"O talento é formado na solidão.\n - Johann Wolfgang von Goethe"</item>
+        <item>"Para evitar críticas, não faça nada, não diga nada, não seja nada.\n - Elbert Hubbard"</item>
+        <item>"Se você quiser tornar seus sonhos realidade, a primeira coisa que você precisa fazer é acordar.\n - J.M. Power"</item>
+        <item>"Ao trabalhar fielmente oito horas por dia, você pode eventualmente ser chefe e trabalhar doze horas por dia \n -  Robert Frost"</item>
+        <item>"Aprendi que não importa o que aconteça, ou o quão ruim parece hoje, a vida continua.\n - Maya Angelou"</item>
+        <item>"A arte de ser sábio é a arte de saber o que ignorar.\n - William James"</item>
+        <item>"Em duas palavras, posso resumir tudo o que aprendi sobre a vida: ela é difícil."</item>
+        <item>"Às vezes, mesmo para viver é um ato de coragem.\n - Seneca"</item>
+        <item>"Faça as primeiras coisas primeiro e as segundas coisas depois."</item>
+        <item>"As únicas pessoas que acham o que procuram na vida são as pessoas com defeito."</item>
+        <item>"A derrota não é amarga, a menos que você a engula. \n -  Joe Clark"</item>
+        <item>"As pessoas parecem não ver que sua opinião sobre o mundo também é uma confissão de caráter. \n -  Ralph Waldo Emerson"</item>
+        <item>"Aqueles que desejam cantar, sempre enchem o saco de alguém."</item>
+        <item>"O sol brilha e aquece e nos ilumina e as pessoas não têm curiosidade de saber por que isso é assim. Mas é só uma bola de gás gigante."</item>
+        <item>"A vida é um naufrágio, por isso é melhor ter um bote salva-vidas."</item>
+        <item>"Você já leu a Frase 34? Ela é enriquecedora."</item>
+        <item>"Você já leu a Frase 34? Ela tem um 34 na frente, esquecemos de tirar e não conseguimos mais achar."</item>
+        <item>"Se você ler a Frase 34, por favor, nos mande um email."</item>
+        <item>"Pé-Grande é real."</item>
+        <item>"Hábitos duradouros eu odeio… Como fumar, que só gasta dinheiro."</item>
+        <item>"Não há educação como levar um pé na bunda."</item>
+        <item>"Ele, que tem um porquê para viver, pode suportar quase tudo. \n -  Friedrich Nietzsche"</item>
+        <item>"Tenha a paixão, tome a ação, se for sim, legal, se for não, parta para próxima. A fila anda e ninguém é perfeito, passe para a próxima."</item>
+        <item>"Se você não tem tempo para fazer direito, quando você vai arrumar essa porcaria?"</item>
+        <item>"Positividade tem muito a ver com ignorar o que está errado."</item>
+        <item>"Nunca tome lições de natação de um homem que está se afogando."</item>
+        <item>"A vida não é sobre TODOS os movimentos errados que você fez, mas alguns realmente vão ter um custo muito alto. Não roube bancos."</item>
+        <item>"Seja humilde o suficiente para admitir que você não é perfeito."</item>
+        <item>"Se você não consegue dormir, melatonina é uma boa droga para resolver isso."</item>
+        <item>"Olhe para os dois lados antes de atravessar a rua."</item>
+        <item>"Tudo acontece por um motivo, não que faça diferença."</item>
+        <item>"Se você quiser alcançar a grandeza, coma Fast-food todo dia."</item>
+        <item>"Faça uma coisa que te assusta todos os dias. Como abrir o Doritos por baixo."</item>
+        <item>"Nada no mundo é mais comum do que pessoas mal sucedidas com talento."</item>
+        <item>"O conhecimento é saber o que se pode fazer. Sabedoria é quando desistir."</item>
+        <item>"Seu problema não é o problema. Sua reação é o problema. Problema, problema, problema."</item>
+        <item>"Você pode fazer qualquer coisa, menos ser astronauta, isso é bem difícil."</item>
+        <item>"O pensamento deve tornar-se seu bem capital, pelo menos você não vai perder tudo que você tem."</item>
+        <item>"Eu acho que quanto mais eu trabalho, mais sorte eu tenho. \n -  Thomas Jefferson"</item>
+        <item>"O ponto de partida de todas as corridas é a linha de partida."</item>
+        <item>"Sucesso é a soma de todos os esforços, como acordar cedo, lavar a louça e ter talento."</item>
+        <item>"Se você quer alcançar a excelência, melhor ser bem alto."</item>
+        <item>"Nunca desista, só às vezes."</item>
+        <item>"A cada dia, mate o homem que nasceu hoje. Isso é metafórico, não mate pessoas."</item>
+        <item>"Não esqueça de atualizar o antivírus."</item>
+        <item>"Todos os progressos ocorrem fora da cama. Tirando alguns."</item>
+        <item>"Escolha até amanhã o que você está disposto a abandonar."</item>
+        <item>"O único lugar onde o sucesso vem antes do trabalho é no dicionário. \n -  Stubby Currence"</item>
+        <item>"Não é o que você vê, é o que você não vê. Gosto de frases enigmáticas."</item>
+        <item>"O caminho para o sucesso e o caminho para o fracasso são quase exatamente iguais. \n -  Colin R. Davis"</item>
+        <item>"A função do gerente é produzir mais resultados com mais responsabilidades e um pequeno aumento salarial."</item>
+        <item>"O sucesso está em gostar do que se faz e fazer dinheiro com isso."</item>
+        <item>"Ao avançarmos no próximo século, os líderes serão as máquinas e teremos que nos submeter à elas."</item>
+        <item>"Um empreendedor real é alguém que não tem rede de segurança por baixo deles. Ou seja, trapezistas não podem ser empreendedores."</item>
+        <item>"O primeiro passo para o sucesso é seguido pelo segundo passo para o sucesso."</item>
+        <item>"Quando eu me atrevo a ser poderoso - usar minha força ao serviço da minha visão, fico feliz de ter conseguido sair da cama hoje."</item>
+        <item>"O guerreiro bem-sucedido é o homem comum, com raios laser."</item>
+        <item>"O desânimo e o fracasso são dois dos melhores passos para o sucesso. \n -  Dale Carnegie"</item>
+        <item>"Se você não projetar seu próprio plano de vida, é provável que você caia no plano de outra pessoa. E adivinhe o que eles planejaram para você? Não muito. \n -  Jim Rohn"</item>
+        <item>"Se você realmente quer alguma coisa, não espere por isso \n -  Gurbaksh Chahal"</item>
+        <item>"Não deixe o medo de perder ser maior do que a emoção de ganhar. Boa forma de perder tudo no casino."</item>
+        <item>"Comece a se focar no tamanho de você! Seja lá o que isso signifique."</item>
+        <item>"Você não pode conectar os pontos olhando para a frente; Você só pode conectá-los olhando para trás. \n -  Steve Jobs"</item>
+        <item>"Não queria que sua vida fosse mais fácil, queria que você fosse melhor."</item>
+        <item>"A razão número um que as pessoas falham na vida é porque eles ouvem seus amigos, familiares e vizinhos. \n -  Napoleon Hill"</item>
+        <item>"Os vencedores podem dizer onde eles estão indo, o que eles planejam fazer ao longo do caminho e quem estará compartilhando a aventura com eles. \n -  Denis Watiley"</item>
+        <item>"O sucesso não consiste em nunca cometer erros, mas em nunca cometer o mesmo erro duas vezes. \n -  George Bernard Shaw"</item>
+        <item>"Eu não quero chegar ao final da minha vida e achar que vivi apenas o comprimento dela. Eu também queria viver a largura dela. \n -  Diane Ackerman ( ͡° ͜ʖ ͡°)"</item>
+        <item>"Você deve esperar grandes coisas de si mesmo antes que você possa fazê-las. \n -  Michael Jordan"</item>
+        <item>"As pessoas raramente conseguem.\n -  Dale Carnegie"</item>
+        <item>"Não há chance, nenhum destino.\n -  Ella Wheeler Wilcox"</item>
+        <item>"Nosso maior medo não deve ser o fracasso, mas de ter sucesso nas coisas da vida que não importam. \n -  Francis Chan"</item>
+        <item>"Você deve se levantar todas as manhãs. \n -  George Lorimer"</item>
+        <item>"Para ser bem-sucedido, você deve aceitar todos os desafios que vierem, mas use camisinha."</item>
+        <item>"Seja miserável. \n -  Wayne Dyer"</item>
+        <item>"Para realizar grandes coisas, não devemos agir, mas também sonhar, não apenas sonhar, mas ser bom, não apenas ser bom, mas ter talento."</item>
+        <item>"A glória é fugaz, mas a obscuridade é para sempre.  \n -  Napoleão Bonaparte"</item>
+        <item>"A vitória vai para o jogador que comete o próximo erro.  \n -  Chessmaster Savielly Grigorievitch Tartakower"</item>
+        <item>"Não seja tão humilde - você não é tão bom.  \n -  Golda Meir"</item>
+        <item>"Sua ignorância é enciclopédica \n -  Abba Eban"</item>
+        <item>"Posso escrever melhor do que qualquer um que possa escrever mais rápido e posso escrever mais rápido do que qualquer um que possa escrever melhor.  \n -  A. J. Liebling"</item>
+        <item>"As pessoas exigem liberdade de expressão para compensar a liberdade de pensamento que eles evitam.  \n -  Soren Aabye Kierkegaard"</item>
+        <item>"Uma mentira caminha meio mundo antes que a verdade tenha a chance de vestir as calças.  \n -  Sir Winston Churchill"</item>
+        <item>"Estou vivendo tão além da minha renda, que quase podemos dizer que estamos morando separados.  \n -  e e cummings"</item>
+        <item>"Em teoria, não há diferença entre a teoria e a prática. Mas, na prática, existe.  \n -  Jan L.A. van de Snepscheut"</item>
+        <item>"Se você acha que pode você está certo, se acha que não pode, você também está certo. \n -  Henry Ford"</item>
+        <item>"A única maneira de se livrar de uma tentação é ceder a ela.  \n -  Oscar Wilde"</item>
+        <item>"Não fique na cama, a menos que você possa ganhar dinheiro na cama. \n -  George Burns"</item>
+        <item>"Não sei por que estamos aqui, mas tenho certeza de que não é para nos divertir. \n -  Ludwig Wittgenstein"</item>
+        <item>"Se você não pode se livrar do esqueleto em seu armário, é melhor você ensinar a dançar.  \n -  George Bernard Shaw"</item>
+        <item>"Talento faz o que pode, o gênio faz o que deve.  O bêbado faz o que quer."</item>
+        <item>"Alguns trazem felicidade onde quer que eles vão, outros, sempre que eles vão. \n -  Oscar Wilde"</item>
+        <item>"Não vou desperdiçar meus dias tentando prolongá-los. \n -  Ian L. Fleming"</item>
+        <item>"Se você pode contar seu dinheiro, você não tem um bilhão de dólares. \n -  J. Paul Getty"</item>
+        <item>"Os fatos são inimigos da verdade. \n -  Dom Quixote"</item>
+        <item>"Quão errado é para uma mulher esperar que o homem construa o mundo que ela quer, ao invés de criá-la ela mesma. \n -  Anais Nin"</item>
+        <item>"Talvez este mundo seja o inferno de outro planeta. \n -  Aldous Huxley"</item>
+        <item>"Bem-aventurado o homem, que não tem nada a dizer e abster-se de dar provas do fato. \n -  George Eliot"</item>
+        <item>"Me diverti muito, só não hoje."</item>
+        <item>"Diga algo sábio e seu nome será lembrado para sempre. \n -  Anônimo"</item>
+        <item>"Nós não perdemos o jogo, apenas o tempo que acabou. \n -  Vince Lombardi"</item>
+        <item>"O otimista proclama que vivemos no melhor de todos os mundos possíveis e o pessimista teme que isso seja verdade. \n -  James Branch Cabell"</item>
+        <item>"Você só pode encontrar a verdade com a lógica se você já encontrou a verdade sem ela. \n -  G. K. Chesterfield"</item>
+        <item>"Não é fácil estar bêbado o tempo todo. Todo mundo faria se fosse fácil. \n -  Tyrion Lannister"</item>
+        <item>"Às vezes quando fecho meus olhos, não consigo ver."</item>
+        <item>"Basicamente, eu não trabalho mais para nada além da sensação que eu tenho enquanto trabalho. \n -  Albert Giacometti"</item>
+        <item>"A reputação de um homem é tão importante quanto dinheiro do banco imobiliário."</item>
+        <item>"Há mais estupidez do que o hidrogênio no universo e tem uma vida útil mais longa. \n -  Frank Zappa"</item>
+        <item>"A vida é agradável. A morte é pacífica. É a transição que é problemática. \n -  Isaac Asimov"</item>
+        <item>"É muito melhor estar louco e saber, do que ser são e ter dúvidas. \n -  G. B. Burgin"</item>
+        <item>"Um grande homem comete grandes erros."</item>
+        <item>"Uma frase espirituosa não prova nada. \n -  Voltaire"</item>
+        <item>"A educação é a descoberta progressiva de nossa própria ignorância. \n -  Will Durant"</item>
+        <item>"Todo mundo é um gênio pelo menos uma vez por ano. \n -  Georg Lichtenberg"</item>
+        <item>"O sucesso geralmente vem para aqueles que estão muito ocupados para procurá-lo. \n -  Henry David Thoreau"</item>
+        <item>"Preencha o que está vazio, esvazie o que está cheio e coce a coceira. \n -  Duquesa de Windsor"</item>
+        <item>"A maioria das pessoas prefere morrer antes de pensar; muitas vezes elas o fazem \n -  Bertrand Russell"</item>
+        <item>"Meu conselho para você é casar: se você encontrar uma boa esposa, você será feliz, se não, você se tornará um filósofo. \n -  Sócrates"</item>
+        <item>"Um narcisista é alguém mais bonito do que você. \n -  Gore Vidal"</item>
+        <item>"O segredo do sucesso é saber algo que ninguém sabe. \n -  Aristotle Onassis"</item>
+        <item>"Eu teria feito um bom Papa. \n -  Richard M. Nixon"</item>
+        <item>"Os erros estão todos aguardando serem feitos. \n -  Savielly Tartakower"</item>
+        <item>"Um pouco de imprecisão às vezes poupa uma tonelada de explicação. \n -  H. H. Munro"</item>
+        <item>"Se você não tem nada de bom em dizer sobre ninguém, venha sentar ao meu lado. \n -  Alice Roosevelt Longworth"</item>
+        <item>"Perdoe seus inimigos, mas nunca esqueça seus nomes. \n -  John F. Kennedy"</item>
+        <item>"Tudo foi descoberto, exceto como viver. \n -  Jean-Paul Sartre"</item>
+        <item>"É melhor ter uma renda permanente do que ser fascinante. \n -  Oscar Wilde"</item>
+        <item>"A coisa boa sobre os egoístas é que eles não falam sobre outras pessoas. \n -  Lucille S. Harper"</item>
+        <item>"Você deve ter cuidado se você não sabe para onde você está indo, porque você pode não chegar lá. \n -  Yogi Berra"</item>
+        <item>"Eu amo o Mickey Mouse mais do que qualquer mulher que já conheci. \n -  Walt Disney"</item>
+        <item>"Os cemitérios estão cheios de homens indispensáveis. \n -  Charles de Gaulle"</item>
+        <item>"Você pode fingir ser sério, você não pode fingir ser esperto. \n -  Sacha Guitry"</item>
+        <item>"Não há amor mais sincero do que amor pela comida. \n -  George Bernard Shaw"</item>
+        <item>"As capas deste livro estão muito distantes. \n -  Ambrose Bierce"</item>
+        <item>"Tudo o que é muito idiota para ser falado é cantado. \n -  Voltaire"</item>
+        <item>"Ao escolher entre dois males, sempre gosto de tentar o que nunca tentei antes. \n -  Mae West"</item>
+        <item>"A felicidade é uma boa saúde e uma memória fraca. \n -  Ingrid Bergman"</item>
+        <item>"Os amigos podem ir e vir, mas os inimigos se acumulam. \n -  Thomas Jones"</item>
+        <item>"Desconfie de qualquer empresa que exija roupas novas. \n -  Henry David Thoreau"</item>
+        <item>"Eu não me sinto bem. \n -  As últimas palavras de Luther Burbank"</item>
+        <item>"Nada está tão errado no mundo que um meteoro não cure."</item>
+        <item>"Sentar-se sozinho com a minha consciência é o suficiente para mim. \n -  Charles William Stubbs"</item>
+        <item>"Sempre faça o bem; isso vai agradar alguns e surpreender o resto. \n -  Mark Twain"</item>
+        <item>"Aprender é o que a maioria dos adultos fará para viver no século 21. \n -  S. J. Perelman"</item>
+        <item>"Tudo o que começou na raiva termina em vergonha. \n -  Benjamin Franklin"</item>
+        <item>"Mantenha todas as promessas que você planeja manter."</item>
+        <item>"Não tente.  \n -  Charles Bukowski"</item>
+        <item>"Há coisas piores do que ficar sozinho. \n -  Charles Bukowski"</item>
+        <item>"Há apenas duas maneiras de viver sua vida. Uma delas é com medo, a outra com sorvete."</item>
+        <item>"É melhor falhar sendo honesto do que ter sucesso roubando cargas."</item>
+        <item>"Pequenas mentes são domadas e subjugadas pelo infortúnio. \n -  Washington Irving"</item>
+        <item>"Você pode ter que lutar uma batalha mais de uma vez. \n -  Margaret Thatcher"</item>
+        <item>"Eu atribuo o meu sucesso à isso: nunca dei qualquer desculpa. \n -  Florence Nightingale"</item>
+        <item>"Todo homem normal as vezes pensa em cuspir em suas mãos, a içar a bandeira negra e a começar a cortar gargantas. \n -  Henry Louis Mencken"</item>
+        <item>"Não estamos recuando, estamos avançando em outra direção. \n -  General Douglas MacArthur"</item>
+        <item>"O homem que não lê bons livros não tem nenhuma vantagem sobre o homem que não pode lê-los. \n -  Mark Twain"</item>
+        <item>"A pesquisa é o que estou fazendo quando não sei o que estou fazendo. \n -  Wernher Von Braun"</item>
+        <item>"O povo não se revoltará. Eles não irão tirar o olho de suas telas tempo suficiente para perceber o que está acontecendo \n -  George Orwell"</item>
+        <item>"Todo filho é um artista. O problema é permanecer um artista quando ele cresce. \n -  Pablo Picasso"</item>
+        <item>"Ou você corre o dia, ou o dia corre. \n -  Jim Rohn"</item>
+        <item>"Ensine sua língua a dizer: \"Eu não sei\" e você progredirá. \n -  Maimonides"</item>
+        <item>"​​Comece onde você está. Use o que você tem. Faça o que pode. \n -  Arthur Ashe"</item>
+        <item>"A felicidade não é algo preparado. Ele vem de suas próprias ações. \n -  Dalai Lama"</item>
+        <item>"Se você for oferecido um assento em um foguete, não pergunte qual lugar! Apenas continue. \n - Sheryl Sandberg"</item>
+        <item>"Primeiro, tenha um ideal prático definitivo e claro; um objetivo. Em segundo lugar, tenha os meios necessários para alcançar seus fins; Sabedoria, dinheiro, materiais e métodos. Em terceiro lugar, coloque todos os seus esforços para esse fim. \n -  Aristóteles"</item>
+        <item>"Se o vento não servir, pegue os remos."</item>
+        <item>"Você não pode cair, se não subir."</item>
+        <item>"Você toma controle de sua vida e o que acontece? Uma coisa terrível, não tem ninguém para culpar. \n -  Erica Jong"</item>
+        <item>"A pessoa que diz que não pode ser feito não deve interromper a pessoa que está fazendo."</item>
+        <item>"Melhor morrer de paixão do que de tédio."</item>
+        <item>"Se você quer que seus filhos aprendam, gaste duas vezes mais tempo com eles e economize metade do dinheiro. \n -  Abigail Van Buren"</item>
+        <item>"Crie seus próprios sonhos ou alguém te contratará para construir o deles. \n -  Farrah Gray"</item>
+        <item>"As batalhas que contam não dão medalhas. As lutas dentro de você, as batalhas invisíveis dentro de todos nós, é isso que importa. \n -  Jesse Owens"</item>
+        <item>"A educação custa dinheiro. A ignorância também. \n -  Sir Claus Moser"</item>
+        <item>"Lembre-se que não conseguir o que você quer, às vezes, é um golpe de sorte maravilhoso. \n - Dalai Lama"</item>
+        <item>"Você não pode esgotar a criatividade. Quanto mais você usa, mais você tem. \n -  Maya Angelou"</item>
+        <item>"Lembre-se de que ninguém pode fazer você se sentir inferior sem o seu consentimento. \n - Eleanor Roosevelt"</item>
+        <item>"Quando estiver com fome, coma o seu arroz. Quando cansado, feche seus olhos. \n -  Lin-Chi"</item>
+        <item>"Para o homem que só tem um martelo, tudo o que ele encontra começa a parecer um prego. \n - Abraham Maslow"</item>
+        <item>"Procure não seguir os passos dos homens da antiguidade, procure o que eles procuraram. \n - Basho"</item>
+        <item>"O que pensamos ou o que sabemos, ou o que acreditamos é, no final, pouco importante. A única coisa que importa é o que fazemos. \n -  John Ruskin"</item>
+        <item>"Não caminhe em direção à luz, a menos que você já morreu ou quer tropeçar no escuro."</item>
+        <item>"Dicas para o sucesso: \n1 -Seja atraente. \n2 -Não seja feio."</item>
+        <item>"Guerra é onde os jovens e estúpidos são iludidos pelos velhos e cruéis para matarem uns aos outros. \n -  Niko Bellic"</item>
+        <item>"Se uma árvore cai na floresta ela irá continuar lá."</item>
+        <item>"Um Homem escolhe, um escravo obedece. \n -  Andrew Ryan."</item>
+        <item>"Se os videogames me ensinaram alguma coisa é que se estou encontrando inimigos é que estou no caminho certo."</item>
+        <item>"Se você gosta de julgar os outros pelo o que eles fizeram, se torne um juiz. As pessoas continuarão a não gostar de você, mas pelo menos será muito bem remunerado."</item>
+        <item>"“Nada é verdadeiro e tudo é permitido” . Só se você fizer parte de um grupo de assassinos, pois você provavelmente estará quebrando algumas leis."</item>
+        <item>"No jogo das cadeiras ou você ganha ou fica em pé."</item>
+        <item>"Já notou que as pessoas nunca falam \“é apenas um jogo\” quando elas estão ganhando?"</item>
+        <item>"Não importa se eles não se lembrarem de mim, eu mesmo não lembro de mais nada."</item>
+        <item>"Viva em conjunto, morra sozinho \n -  Jack Shephard"</item>
+        <item>"Lembre-se desses números  4 8 15 16 23 42, mas não recomendo apostar com eles."</item>
+        <item>"Toda situação ruim é uma música de blues esperando para acontecer. \n -  Amy Winehouse"</item>
+        <item>"Veja pelo lado positivo, você não é viciado em morfina."</item>
+        <item>"Ninguém é mal simplemestar por ser mal, sempre existe um motivo por trás.\n - Aya Cash"</item>
+        <item>"Se a vida ensina alguma coisa, é que não existe vilões. Apenas pessoas dando o melhor de si."</item>
+        <item>"Ou você morre como herói, ou vive o suficiente para se tornar um vilão.\n - Harvey Dent"</item>
+        <item>"A diferença entre insanidade e genialidade é apenas o sucesso."</item>
+        <item>"É claro que esse app é trivial, mas também muitas coisa são."</item>
+        <item>"Acredite em mim, nada é trivial."</item>
+        <item>"Se as coisas parecem triviais, é porque elas provavelmente são."</item>
+        <item>"Um dia eu achei que eu estava errado, mas me enganei."</item>
+        <item>"Eu acho que as pessoas acham que eu penso bastante. Mas eu não penso. Eu não gosto de pensar nenhum pouco.\n - Kanye West"</item>
+        <item>"As verdadeiras frases são as que achamos ao longo do caminho."</item>
+        <item>"Esta frase não está mais disponível."</item>
+        <item>"Se um gato atravessa a estrada não significa má sorte. Significa que o gato está indo para algum lugar."</item>
+    </string-array>
+</resources>

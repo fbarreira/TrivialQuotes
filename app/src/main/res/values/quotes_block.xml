@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes_block">
+        <item>"Come back later."</item>
+        <item>"Please, come back another time."</item>
+        <item>"I insist, try later."</item>
+        <item>"We are out of quotes at the moment."</item>
+        <item>"You already reached your quota. Give up!"</item>
+        <item>"C'mon, stop it."</item>
+        <item>"This is getting annoying, we will NOT give you another quote."</item>
+        <item>"Hey, stop this now!"</item>
+        <item>"Don't you have to work or something?"</item>
+        <item>"No job uh? I'll give a work to you, touch this button 10 more times."</item>
+        <item>"You got 1 point!"</item>
+        <item>"You got 2 points!"</item>
+        <item>"You got 3 points! \nKeep going!"</item>
+        <item>"You got 4 points!"</item>
+        <item>"You got 5 points! \nYou can do it!"</item>
+        <item>"You got 6 points!"</item>
+        <item>"You got 7 points! \nAlmost there!"</item>
+        <item>"You got 8 points!"</item>
+        <item>"You got 9 points!"</item>
+        <item>"You got 10 points! \nGood job. Now leave."</item>
+        <item>"Come back later."</item>
+        <item>"C'mon, not again."</item>
+        <item>"Seriously, we don't have many quotes here so we need to be creative."</item>
+        <item>"Here, I'll give this one just for you: \n \"I like to insist on trivial things and have nothing better to do. \n - You"</item>
+        <item>"OK, I will have to resort to drastic measures now.\n Self destruction in 5 touches…"</item>
+        <item>"Self destruction in 4 touches…"</item>
+        <item>"Self destruction in 3 touches…"</item>
+        <item>"Self destruction in 2 touches…"</item>
+        <item>"Self destruction in 1 touches…"</item>
+    </string-array>
+</resources>

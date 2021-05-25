@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frases Triviais</string>
+    <string name="get_quote">Pegar frase!</string>
+    <string name="settings">Opções</string>
+    <string name="share">Compartilhar</string>
+    <string name="about">Sobre</string>
+    <string name="share_to">Compartilhar com:</string>
+    <string name="created_by">Criado Por</string>
+    <string name="display_agreement">Ao usar este app você concordo com:</string>
+    <string name="link_privacy"><a href="www.justkrated.com">Política de Privacidade</a></string>
+    <string name="link_tos"><a href="www.justkrated.com">Termos de Uso</a></string>
+    <string name="rate_us">Avaliar</string>
+    <string name="close">Fechar</string>
+    <string name="warning_email_not_found">Nenhum serviço de email foi encontrado.</string>
+    <string name="warning_rate_not_found">Não foi possível achar a loja do app.</string>
+    <string name="feedback_title">Enviando feedback...</string>
+    <string name="feedback_body">Favor compartilhar suas ideias aqui</string>
+</resources>

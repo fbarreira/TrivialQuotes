@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Trivial Quotes</string>
+    <string name="get_quote">Get Quote!</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="share_to">Share To:</string>
+    <string name="justkrated" translatable="false">JustKrated</string>
+    <string name="created_by">Created By</string>
+    <string name="display_agreement">By using this app you agree with our:</string>
+    <string name="link_privacy"><a href="www.justkrated.com">Privacy Policy</a></string>
+    <string name="link_tos"><a href="www.justkrated.com">Terms of Use</a></string>
+    <string name="rate_us">Rate Us</string>
+    <string name="feedback" translatable="false">Feedback</string>
+    <string name="close">Close</string>
+    <string name="warning_email_not_found">No email clients were found .</string>
+    <string name="warning_rate_not_found">Could not find app store.</string>
+    <string name="feedback_title">Sending feedback...</string>
+    <string name="feedback_body">Please, write your thoughts here</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>"We have to experience sadness to recognize happiness, unless you have depression, every day is bad then."</item>
+        <item>"You get something whenever you look fear in its eyes and say, \"I'd better leave.\""</item>
+        <item>"If imagination is stronger than knowledge, I couldn't say, but I hope my cardiologist studied more than imagined."</item>
+        <item>"Character can only be obtained from trial and suffering, but I think it’s best to leave it for tomorrow."</item>
+        <item>"The adventure is worth it, if it is within the international safety standards."</item>
+        <item>"Parents are meant to give things to children that they will ignore, such as respect and education."</item>
+        <item>"Demand more from yourself than any other demands from you. With some drugs it is possible to cope with the increasing mental pressure."</item>
+        <item>"If you come to a crossroads, check the GPS to check the right direction."</item>
+        <item>"It is possible that the universe is full of life, but let us hope that it not or comes to destroy us."</item>
+        <item>"Life consists of playing well the cards given to you, but if you start with king and aces is much easier."</item>
+        <item>"Love without dialogue is strange. Get down from the tree and drop the binoculars."</item>
+        <item>"If in doubt, don’t do it. It's a good way to do nothing in life."</item>
+        <item>"Cats are a good reminder that we are not the smartest beings on earth."</item>
+        <item>"Nothing in the world has ever been completed without passion and money."</item>
+        <item>"Be true, getting caught up in a lie is almost as bad as being a Nazi."</item>
+        <item>"Chess is just another way of feeling stupid."</item>
+        <item>"It is always best to stay clean and transparent, like a window, since most people look through you."</item>
+        <item>"Music is like a painting, they say it's art and I think I would do better, if I had any talent."</item>
+        <item>"I had to live in the desert to appreciate piped water.\n - Anonymous Survivor"</item>
+        <item>"True knowledge is really understanding the extent of our ignorance."</item>
+        <item>"Maybe this world is the hell of another planet.\n  - Aldous Huxley"</item>
+        <item>"My father used to say that if you had five friends when you died, you died early."</item>
+        <item>"The only limit is your bank account."</item>
+        <item>"Difficult roads lead to worse places."</item>
+        <item>"Do not stop when you're tired, or stop, I'm not your father."</item>
+        <item>"We have to assert ourselves every day, but today I will watch Netflix."</item>
+        <item>"Life is what happens while we're awake."</item>
+        <item>"Life is 10% what happens and 90% thinking about your embarrassing moments."</item>
+        <item>"Hope is the last to die, the first is patience."</item>
+        <item>"Our great weakness is to try, if you do not try, you cannot lose."</item>
+        <item>"If you can push a task another day, do it."</item>
+        <item>"If it seems impossible, it probably is."</item>
+        <item>"If things are bad at work, there is not much to do."</item>
+        <item>"Always do your best, unless it is very difficult, in that case let it go."</item>
+        <item>"It doesn't matter how slow you go, actually, it does if your enemies are faster."</item>
+        <item>"New day, same concerns."</item>
+        <item>"The past can not be changed, the future does not seem any better."</item>
+        <item>"Believe in yourself, because I won’t."</item>
+        <item>"Writing your goals is the surest way to be disappointed when you do not complete them."</item>
+        <item>"Dreaming is the only way you will not be disappointed."</item>
+        <item>"If something is important, pay someone else to do it for you."</item>
+        <item>"Blessed be the children, for they will inherit the national debt."</item>
+        <item>"The traveler sees what he sees, the tourist loses the camera."</item>
+        <item>"Blessed is the man who has nothing to talk about."</item>
+        <item>"Show me your garden and I will tell you "what a beautiful garden you have"."</item>
+        <item>"We have to let go of the life we planned… Forget it, plan your life."</item>
+        <item>"The greatest gift of life is friendship and money."</item>
+        <item>"Enjoy every minute of your life, every second, start now. Are you enjoying yourself? And now? What about now? This is a good way to create clinical anxiety."</item>
+        <item>"Smile every day in the mirror. Also brush your teeth."</item>
+        <item>"Life is not about finding yourself. Is about:"</item>
+        <item>"Death is not the worst loss of life. The worst loss is what dies within us as we live.\n - Norman Cousins"</item>
+        <item>"Happiness is a choice, just like being a communist."</item>
+        <item>"We are what we repeatedly do. For example, I am a rock."</item>
+        <item>"The best way out is the exit."</item>
+        <item>"In life, do not wait until the hot iron hits you. Unless you're a cow."</item>
+        <item>"Great souls have always encountered violent opposition from ghostbusters."</item>
+        <item>"If you think you can or think you can not, you're right.\n - Henry Ford"</item>
+        <item>"I lost over 9000 baskets in my career. I lost almost 300 games. 26 times, I was responsible for the turning point and lost.\n - Michael Jordan"</item>
+        <item>"What you get by achieving your goals is not as important as the love you have for money."</item>
+        <item>"You can get everything in life you want, if you're not dumb."</item>
+        <item>"What you do will be insignificant.\n - Mahatma Gandhi"</item>
+        <item>"Desire is the starting point of all conquests, but it is not enough."</item>
+        <item>"Sight without action is to dream awake. Action without sight is to create debts."</item>
+        <item>"In any situation, the best thing you can do is the right thing; The next best is nothing."</item>
+        <item>"If you keep saying that things are going to be bad, you have a chance to be a prophet.\n - Isaac B. Singer"</item>
+        <item>"Success consists in being good."</item>
+        <item>"Keep going and chances are you'll stumble upon something, maybe when you least expect it. I've never heard of anyone tripping over anything if he’s sitting. "</item>
+        <item>"Twenty years from now you will be more disappointed with the things you did not do than the ones you did.\n - Mark Twain"</item>
+        <item>"Some succeed because it’s their destiny. Some because they are determined. Most people don’t succeed."</item>
+        <item>"Experience is what you get when you do not get what you want.\n - Dan Stanford"</item>
+        <item>"If you want to test your memory, try to remember what you were worrying about a year ago today.\n - E. Joseph Cossman"</item>
+        <item>"We judge a man's wisdom by how boring he is."</item>
+        <item>"The best way to cheer yourself up is by using drugs, the second best is by cheering someone up."</item>
+        <item>"Age is a matter of mind over matter. You lie and others pretend they believe."</item>
+        <item>"Whenever you find yourself on the side of the majority, it is a sign that you are winning."</item>
+        <item>"Stay away from people who try to minimize your ambitions. Unless your ambitions are to become a drug lord."</item>
+        <item>"The safest way to not fail is to succeed."</item>
+        <item>"Take the first step of faith, hopefully you will not fall and break your leg."</item>
+        <item>"Act or accept."</item>
+        <item>"Many fantastic ideas are not executed and many great executors are without ideas, but all executed are dead."</item>
+        <item>"The world is more malleable than you think, especially if you're rich."</item>
+        <item>"People really become quite remarkable when they begin to think they can do things. A little less remarkable when they give up."</item>
+        <item>"To live a creative life, we must lose the fear of dying from hunger. Although it is most likely."</item>
+        <item>"Do not risk the usual for unusual."</item>
+        <item>"Get an idea. Make that idea your life - think about it, dream about it, live on that idea. Die alone and disappointed."</item>
+        <item>"All our dreams can come true if we are Walt Disney. Even paying less to ours employees."</item>
+        <item>"Sitting and waiting is the best way to stay safe."</item>
+        <item>"If you do what you've always do, you may have a retirement at the end."</item>
+        <item>"As soon as the caterpillar thought the world was ending, it was right."</item>
+        <item>"Whenever you see a successful person, you only see the public glories, never the people they stepped on to get there."</item>
+        <item>"Opportunities do not happen.\n  - Chris Grosser"</item>
+        <item>"Whenever you find the whole world against you, you are probably doing something wrong."</item>
+        <item>"To be defeated is only a temporary condition; Giving up is what makes it permanent. \n -  Marilyn vos Savant"</item>
+        <item>"Fall seven times, on the eighth, give up."</item>
+        <item>"The difference between ordinary and extraordinary is the extra on the front."</item>
+        <item>"Anyone can do something when he has the will and that moment is the last possible moment."</item>
+        <item>"There are two main choices in life: to accept the conditions as they exist and to accept things as they are."</item>
+        <item>"The success seems to be related with change. Sometimes with stock exchanges."</item>
+        <item>"Attitudes are contagious. Like the flu, you end up in bed."</item>
+        <item>"There are only two rules to succeed. One, find out exactly what you want to do, and two, have the time and money to do it."</item>
+        <item>"Sooner or later, those who win are those who are lucky."</item>
+        <item>"Vision usually does not come as a light bulb, it comes slowly until you consider that it is basically impossible to perform it by working eight hours a day."</item>
+        <item>"Success is a state of mind. If you want success, start thinking of yourself as a success, so your unbearable job becomes a success."</item>
+        <item>"Faults are part of the menu of life and I have never lost a portion."</item>
+        <item>"Winners lose much more often than losers.\n - Matthew Keith Groves"</item>
+        <item>"An idea can turn into powder or magic depending on whether you have the magic grinder or the pepper grinder."</item>
+        <item>"An obstacle is often a Berlin wall."</item>
+        <item>"Life is "trying things to see if they work"\n - Ray Bradbury"</item>
+        <item>"If you worry about yesterday's failures, you can pay off your debt."</item>
+        <item>"We are all travelers, each sailing on a voyage of discovery, often plundered by pirates and having your ship wrecked, but a voyage."</item>
+        <item>"I think and think for months and years. Ninety-nine times, I'm wrong.\n - Albert Einstein"</item>
+        <item>"Where the will is great, the difficulties are too."</item>
+        <item>"Success is not to be measured by the position that someone has reached in life, but the amount of things he possesses."</item>
+        <item>"Talent is formed in solitude. \n - Johann Wolfgang von Goethe"</item>
+        <item>"To avoid criticism, do nothing, say nothing, be nothing.\n - Elbert Hubbard"</item>
+        <item>"If you want to make your dreams come true, the first thing you need to do is wake up.\n - J.M. Power"</item>
+        <item>"By working faithfully eight hours a day, you can eventually become a boss and work twelve hours a day.\n - Robert Frost"</item>
+        <item>"I learned that no matter what happens, or how bad it seems today, life goes on. \n - Maya Angelou"</item>
+        <item>"The art of being wise is the art of knowing what to ignore.\n - William James"</item>
+        <item>"In three words, I can summarize everything I have learned about life: it is difficult."</item>
+        <item>"Sometimes even to live is an act of courage.\n - Seneca"</item>
+        <item>"Do the first things first and the second things second."</item>
+        <item>"The only people that find what they are looking for are those with issues."</item>
+        <item>"Defeat is not bitter unless you swallow it.\n - Joe Clark"</item>
+        <item>"People do not seem to see that their opinion of the world is also a confession of their character.\n - Ralph Waldo Emerson"</item>
+        <item>"Those who wish to sing, always bother someone."</item>
+        <item>"The sun shines and warms and enlightens us and people are not curious to know why this is so. But it's just a giant ball of gas."</item>
+        <item>"Life is a shipwreck, so it's better have a lifeboat."</item>
+        <item>"Have you read Quote 34? It is awesome."</item>
+        <item>"Have you read Quote 34? It has a 34 in front, we forget to take it and we cannot find it anymore."</item>
+        <item>"If you read Quote 34, please send us an email."</item>
+        <item>"Bigfoot is real."</item>
+        <item>"I hate long-lasting habits… Like smoking, it only spends money."</item>
+        <item>"There is no education like getting a foot in the butt."</item>
+        <item>"He who has a why to live can bear almost any how.\n -Friedrich Nietzsche"</item>
+        <item>"Have passion, take action, if it worked, cool, if it didn’t, go for next. There are plenty of fish in the sea and no one is perfect, move on."</item>
+        <item>"If you do not have the time to do it right the first time, when are you going to fix this crap?"</item>
+        <item>"Positivity has a lot to do with ignoring what is wrong."</item>
+        <item>"Never take swimming lessons from a drowning man."</item>
+        <item>"Life is not about ALL the wrong moves you've made, but some will actually have a very high cost. Do not rob banks."</item>
+        <item>"Be humble enough to admit that you're not perfect."</item>
+        <item>"If you cannot sleep, melatonin is a good drug to solve this."</item>
+        <item>"Look both ways before crossing the street."</item>
+        <item>"Everything happens for a reason, it just doesn't make a difference."</item>
+        <item>"If you want to achieve greatness, eat fast food every day."</item>
+        <item>"Do something that scares you every day. Like opening Doritos from the bottom."</item>
+        <item>"Nothing in the world is more common than unsuccessful people with talent."</item>
+        <item>"Knowledge is knowing what can be done. Wisdom is when to give up."</item>
+        <item>"Your problem is not the problem. Your reaction to the problem is the problem. Problem, problem, problem."</item>
+        <item>"You can do anything but be an astronaut, this is tough."</item>
+        <item>"Thought should become your capital asset, at least you will not lose everything you have."</item>
+        <item>"I think the more I work, the luckier I get.\n - Thomas Jefferson"</item>
+        <item>"The starting point for all races is the starting line."</item>
+        <item>"Success is the sum of all efforts, like waking up early, doing the dishes and having talent."</item>
+        <item>"If you want to reach excellency, better be taller."</item>
+        <item>"Never give up, just sometimes."</item>
+        <item>"Every day, kill the man who was born today. This is metaphorical, do not kill people."</item>
+        <item>"Do not forget to update your antivirus."</item>
+        <item>"All progress occurs out of bed. Most progress occurs out of bed."</item>
+        <item>"Choose until tomorrow what you are willing to give up."</item>
+        <item>"The only place where success comes before work is in the dictionary. \n - Stubby Currence"</item>
+        <item>"It's not what you see, it's what you do not see. I like cryptic sentences."</item>
+        <item>"The road to success and the road to failure are almost exactly the same. \n - Colin R. Davis"</item>
+        <item>"The manager's job is to produce more results with more responsibilities and a small salary increase."</item>
+        <item>"Success is about liking what you do and making money from it."</item>
+        <item>"As we move forward in the next century, leaders will be machines and we will have to submit to them."</item>
+        <item>"A real entrepreneur is someone who does not have a safety net beneath them. That is, trapeze artists can not be entrepreneurs."</item>
+        <item>"The first step to success is followed by the second step to success."</item>
+        <item>"When I dare to be powerful - to use my strength at the service of my vision, I am glad that I have been able to get out of bed today."</item>
+        <item>"The successful warrior is the common man, with swords."</item>
+        <item>"Discouragement and failure are two of the best steps to success.\n - Dale Carnegie"</item>
+        <item>"If you do not design your own life plan, you are likely to fall into someone else's plan. And guess what they planned for you? Not much. \n - Jim Rohn"</item>
+        <item>"If you really want something, do not expect it.\n  - Gurbaksh Chahal"</item>
+        <item>"Do not let the fear of losing be greater than the thrill of winning. That’s a good way to lose everything at the casino."</item>
+        <item>"Start focusing on the size of you! Whatever that means."</item>
+        <item>"You cannot connect the dots looking forward; You can only connect them by looking back.\n - Steve Jobs"</item>
+        <item>"I don’t want to your life to be easier, I want you to be better."</item>
+        <item>"The number one reason people fail in life is because they listen to their friends, family and neighbors. \n - Napoleon Hill"</item>
+        <item>"The winners can tell you where they are going, what they plan to do along the way and who will be sharing the adventure with them. \n - Denis Watiley"</item>
+        <item>"Success does not consist in never making mistakes, but in never making the same mistake twice. \n - George Bernard Shaw"</item>
+        <item>"I do not want to reach the end of my life and think that I have lived only the length of it. I also wanted to live the width of it. \n - Diane Ackerman (͡ ° ͜ʖ ͡ °)"</item>
+        <item>"You must expect great things from yourself before you can do them. \n - Michael Jordan"</item>
+        <item>"People rarely get what they want.\n - Dale Carnegie"</item>
+        <item>"There is no chance, no destination.\n - Ella Wheeler Wilcox"</item>
+        <item>"Our greatest fear should not be failure, but of succeeding in things in life that do not matter.\n - Francis Chan"</item>
+        <item>"You should get up every morning.\n - George Lorimer"</item>
+        <item>"To be successful, you must accept all the challenges that come, but use a condom."</item>
+        <item>"Be miserable.\n- Wayne Dyer"</item>
+        <item>"To accomplish great things, we must not act, but also dream, not only dream, but be good, not just be good, but have talent."</item>
+        <item>"Glory is fleeting, but darkness is forever.\n - Napoleon Bonaparte"</item>
+        <item>"The victory goes to the player who makes the next mistake.\n - Chessmaster Savielly Grigorievitch Tartakower"</item>
+        <item>"Do not be so humble\n -you're not so good. \n - Golda Meir"</item>
+        <item>"His ignorance is encyclopedic. \n - Abba Eban"</item>
+        <item>"I can write better than anyone who can write faster,” he said, “and I can write faster than anyone who can write better.\n - A. J. Liebling"</item>
+        <item>"People demand freedom of speech to compensate for the freedom of thought they avoid.\n - Soren Aabye Kierkegaard"</item>
+        <item>"A lie gets halfway around the world before the truth has a chance to get its pants on.\n - Sir Winston Churchill"</item>
+        <item>"I am living so beyond my income that we can almost say that we are living apart.\n  - e e cummings"</item>
+        <item>"In theory, there is no difference between theory and practice. But in practice, it exists.\n - Jan L.A. van de Snepscheut"</item>
+        <item>"Whether you think you can, or you think you can't—you're right.\n - Henry Ford"</item>
+        <item>"The only way to get rid of a temptation is to yield to it. \n - Oscar Wilde"</item>
+        <item>"Don't stay in bed, unless you can make money in bed.\n - George Burns"</item>
+        <item>"I do not know why we're here, but I'm sure it's not for fun.\n - Ludwig Wittgenstein"</item>
+        <item>"If you can't get rid of the skeleton in the closet, you better teach it to dance.\n - George Bernard Shaw"</item>
+        <item>"Talent does what he can, genius does what he should. The drunk does what he wants."</item>
+        <item>"Some cause happiness wherever they go; others whenever they go.\n - Oscar Wilde"</item>
+        <item>"I will not waste my days trying to prolong them. \n - Ian L. Fleming"</item>
+        <item>"If you can count your money, you do not have a billion dollars.\n - J. Paul Getty"</item>
+        <item>"Facts are enemies of truth. \n - Don Quixote"</item>
+        <item>"How wrong it is for a woman to expect man to build the world she wants, rather than to create it herself. \n - Anais Nin"</item>
+        <item>"Maybe this world is another planet’s hell.\n - Aldous Huxley"</item>
+        <item>"Blessed is the man, who has nothing to say and refrain from giving evidence of the fact.\n - George Eliot"</item>
+        <item>"I had so much fun, just not today."</item>
+        <item>"Say something wise and your name will be remembered forever.\n - Anonymous"</item>
+        <item>"We didn't lose the game, we just ran out of time.\n - Vince Lombardi"</item>
+        <item>"The optimist proclaims that we live in the best of all possible worlds and the pessimist fears that this is true. \n - James Branch Cabell"</item>
+        <item>"You can only find truth with logic if you have already found the truth without it.\n - G. K. Chesterfield"</item>
+        <item>"It's not easy being drunk all the time. Everyone would do it if it were easy.\n - Tyrion Lannister"</item>
+        <item>"Sometimes when I close my eyes, I can't see."</item>
+        <item>"Basically, I no longer work for anything other than the feeling I have while working.\n - Albert Giacometti"</item>
+        <item>"A man's reputation is just as important as monopoly money."</item>
+        <item>"There is more stupidity than hydrogen in the universe and it has a longer shelf life. \n - Frank Zappa"</item>
+        <item>"Life is pleasant. Death is peaceful. It is the transition that is problematic. \n - Isaac Asimov"</item>
+        <item>"It is much better to be crazy and know, than to be healthy and have doubts.\n - G. B. Burgin"</item>
+        <item>"A great man makes great mistakes."</item>
+        <item>"A witty phrase does not prove anything. \n - Voltaire"</item>
+        <item>"Education is the progressive discovery of our own ignorance.\n - Will Durant"</item>
+        <item>"Everyone is a genius at least once a year. \n - Georg Lichtenberg"</item>
+        <item>"Success usually comes to those who are too busy to seek it out.\n - Henry David Thoreau"</item>
+        <item>"Fill in what is empty, empty what is full and scratch the itch. \n - Duchess of Windsor"</item>
+        <item>"Most people would rather die than think; Many times they do.\n - Bertrand Russell"</item>
+        <item>"My advice to you is to marry: if you find a good wife, you will be happy, if not, you will become a philosopher. \n - Socrates"</item>
+        <item>"A narcissist is someone more handsome than you.\n - Gore Vidal"</item>
+        <item>"The secret of success is knowing something that nobody knows.\n - Aristotle Onassis"</item>
+        <item>"I would have made a good Pope. \n - Richard M. Nixon"</item>
+        <item>"The mistakes are all waiting to be made.\n - Savielly Tartakower"</item>
+        <item>"A little imprecision sometimes saves you a ton of explanation.\n - H. H. Munro"</item>
+        <item>"If you have nothing good to say about anyone, come and sit by my side.\n - Alice Roosevelt Longworth"</item>
+        <item>"Forgive your enemies, but never forget their names. \n - John F. Kennedy"</item>
+        <item>"Everything has been discovered except how to live. \n - Jean-Paul Sartre"</item>
+        <item>"It is better to have a permanent income than to be fascinating.\n - Oscar Wilde"</item>
+        <item>"The good thing about the selfish is that they do not talk about other people.\n - Lucille S. Harper"</item>
+        <item>"You've got to be very careful if you don't know where you are going, because you might not get there.\n - Yogi Berra"</item>
+        <item>"I love Mickey Mouse more than any woman I've ever met.\n - Walt Disney"</item>
+        <item>"The cemeteries are filled with indispensable men. \n - Charles de Gaulle"</item>
+        <item>"You can pretend to be serious; but you can't pretend to be witty.\n - Sacha Guitry"</item>
+        <item>"There is no more sincere love than love for food. \n - George Bernard Shaw"</item>
+        <item>"The covers of this book are too far apart."</item>
+        <item>"Anything that is too stupid to be spoken is sung. \n - Voltaire"</item>
+        <item>"When choosing between two evils, I always like to try the one I've never tried before.\n - Mae West"</item>
+        <item>"Happiness is good health and a weak memory. \n - Ingrid Bergman"</item>
+        <item>"Friends can come and go, but enemies pile up. \n - Thomas Jones"</item>
+        <item>"Be wary of any company that requires new clothes.\n - Henry David Thoreau"</item>
+        <item>"I do not feel well. \n - the last words of Luther Burbank"</item>
+        <item>"Nothing is so wrong in the world that a meteor strike does not solve."</item>
+        <item>"Sitting alone with my conscience is enough for me. \n - Charles William Stubbs"</item>
+        <item>"Always do right. This will gratify some people and astonish the rest. \n - Mark Twain"</item>
+        <item>"Learning is what most adults will do for a living in the 21st century.\n - S. J. Perelman"</item>
+        <item>"Whatever is begun in anger ends in shame.\n - Benjamin Franklin"</item>
+        <item>"Keep all the promises you plan to keep."</item>
+        <item>"Do not try.\n - Charles Bukowski"</item>
+        <item>"There are worse things than being alone. \n - Charles Bukowski"</item>
+        <item>"There are only two ways to live your life. One of them is scared, one is with ice cream."</item>
+        <item>"It is better to fail by being honest than to succeed by stealing cargo."</item>
+        <item>"Little minds are tamed and subdued by misfortune. \n - Washington Irving"</item>
+        <item>"You may have to fight a battle more than once. \n - Margaret Thatcher"</item>
+        <item>"I attribute my success to this: I have never given any excuse.\n - Florence Nightingale"</item>
+        <item>"Every normal man must be tempted, at times, to spit upon his hands, hoist the black flag, and begin slitting throats.\n - Henry Louis Mencken"</item>
+        <item>"We are not retreating, we're advancing in another direction.\n - General Douglas MacArthur"</item>
+        <item>"The man who does not read good books has no advantage over the man who can't read them.\n - Mark Twain"</item>
+        <item>"Research is what I'm doing when I don't know what I'm doing.\n - Wernher Von Braun"</item>
+        <item>"The people will not revolt. They will not take their eyes off their screens long enough to realize what's happening \n - George Orwell"</item>
+        <item>"Every child is an artist. The problem is to remain an artist when he grows up. \n - Pablo Picasso"</item>
+        <item>"Either you run the day or the day runs you.\n - Jim Rohn"</item>
+        <item>"Teach your tongue to say, \"I do not know\" and you will progress. \n - Maimonides"</item>
+        <item>"Begin where you are. Use what you have. Do what you can. \n - Arthur Ashe"</item>
+        <item>"Happiness is not something prepared. It comes from your own actions. \n - Dalai Lama"</item>
+        <item>"If you are offered a seat on a rocket, do not ask which place! Just keep going.\n -Sheryl Sandberg"</item>
+        <item>"First, have a definite practical ideal and clear; A goal. Secondly, have the means necessary to achieve your ends; Wisdom, money, materials and methods. Third, put all your efforts to that end. \n - Aristotle"</item>
+        <item>"If the wind will not serve, take to the oars."</item>
+        <item>"You can not fall if you don’t get up."</item>
+        <item>"Take your life in your own hands, and what happens? A terrible thing: no one to blame.\n - Erica Jong"</item>
+        <item>"The person who says it can not be done should not interrupt the person who is doing it."</item>
+        <item>"Better to die of passion than of boredom."</item>
+        <item>"If you want your children to turn out well, spend twice as much time with them, and half as much money.\n - Abigail Van Buren"</item>
+        <item>"Create your own dreams or someone will hire you to build theirs.\n - Farrah Gray"</item>
+        <item>"The battles that count aren't the ones for gold medals. The struggles within yourself - the invisible, inevitable battles inside all of us - that's where it's at.\n - Jesse Owens"</item>
+        <item>"Education costs money, but then so does ignorance.\n - Sir Claus Moser"</item>
+        <item>"Remember that sometimes not getting what you want is a wonderful stroke of luck.\n - Dalai Lama"</item>
+        <item>"You can not exhaust your creativity. The more you use, the more you have. \n - Maya Angelou"</item>
+        <item>"Remember that no one can make you feel inferior without your consent. \n - Eleanor Roosevelt"</item>
+        <item>"When you are hungry, eat your rice. When tired, close your eyes. \n - Lin-Chi"</item>
+        <item>"For the man who only has a hammer, everything he finds begins to look like a nail.\n - Abraham Maslow"</item>
+        <item>"Do not seek to follow in the footsteps of the wise. Seek what they sought. \n - Basho"</item>
+        <item>"What we think or what we know, or what we believe, is, in the end, unimportant. The only thing that matters is what we do. \n - John Ruskin"</item>
+        <item>"Do not walk towards the light, unless you have already died or want to stumble in the dark."</item>
+        <item>"Tips for success: \n1-Be attractive. \n2-Do not be unattractive."</item>
+        <item>"War is where the young and stupid are deceived by the old and bitter into killing each other.\n - Niko Bellic"</item>
+        <item>"If a tree falls in the forest it will stay there."</item>
+        <item>"A Man chooses, a slave obeys.\n - Andrew Ryan."</item>
+        <item>"If video games have taught me anything, it's that if you encounter enemies then you’re going on the right way."</item>
+        <item>"If you like to judge others by what they have done, become a judge. People will continue to dislike you, but at least you will be well paid."</item>
+        <item>"Nothing is true and everything is permitted. Only if you're part of a group of assassins, because you're probably breaking some laws."</item>
+        <item>"In the game of chairs you win or you stand."</item>
+        <item>"Have you ever noticed that people never say \"it's just a game\" when they're winning?"</item>
+        <item>"It does not matter if they do not remember me, I do not remember anything else myself."</item>
+        <item>"Live Together, Die Alone.\n - Jack Shephard"</item>
+        <item>"Remember these numbers 4 8 15 16 23 42, but I do not recommend betting on them."</item>
+        <item>"Every bad situation is a blues song waiting to happen.\n - Amy Winehouse"</item>
+        <item>"On the bright side, you are not addicted to morphine."</item>
+        <item>"No one is trying to be bad fore the sake of being bad, there's always a reason behind it.\n - Aya Cash"</item>
+        <item>"If life teaches anything, it's that there are no villains. Only people doing their best."</item>
+        <item>"You either die a hero or live long enough to become the villain.\n - Harvey Dent"</item>
+        <item>"The distance between insanity and genius is measured only by success."</item>
+        <item>"Of course this app is trivial, but then most things are."</item>
+        <item>"Believe me, nothing is trivial."</item>
+        <item>"If things looks trivial at first, it's because they probably are trivial."</item>
+        <item>"I once thought I was wrong, but I was mistaken."</item>
+        <item>"I think people think I like to think a lot. And I don't. I do not like to think at all.\n - Kanye West"</item>
+        <item>"The real quotes are the ones we find along the way."</item>
+        <item>"This quote is no longer available."</item>
+        <item>"If a cat crosses road it doesn't mean bad luck. It means that the cat is going somewhere."</item>
+    </string-array>
+</resources>

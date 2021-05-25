@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes_block">
+        <item>"Volte mais tarde."</item>
+        <item>"Por favor, volte outra hora."</item>
+        <item>"Eu insisto, tente depois."</item>
+        <item>"Estamos sem frases no momento."</item>
+        <item>"Você já atingiu sua quota. Desista!"</item>
+        <item>"Qual é, para com isso."</item>
+        <item>"Isto está ficando irritante, nós NÃO iremos te dar mais uma frase."</item>
+        <item>"Hey, pare com isso agora!"</item>
+        <item>"Você não tem que trabalhar ou coisa do tipo?"</item>
+        <item>"Sem emprego né? Vou te dar um trabalho então, Aperta esse botão aí mais 10 vezes."</item>
+        <item>"Você ganhou 1 ponto!"</item>
+        <item>"Você ganhou 2 pontos!"</item>
+        <item>"Você ganhou 3 pontos! \nContinue!"</item>
+        <item>"Você ganhou 4 pontos!"</item>
+        <item>"Você ganhou 5 pontos! \nVocê consegue!"</item>
+        <item>"Você ganhou 6 pontos!"</item>
+        <item>"Você ganhou 7 pontos! \nQuase lá!"</item>
+        <item>"Você ganhou 8 pontos!"</item>
+        <item>"Você ganhou 9 pontos!"</item>
+        <item>"Você ganhou 10 pontos! \nParabéns. Agora vá."</item>
+        <item>"Volte mais tarde."</item>
+        <item>"Qual é, de novo não."</item>
+        <item>"Sério, nós não temos muitas frases então precisamos ser criativos aqui."</item>
+        <item>"Aqui vou dar uma frase só para você:\n \"Eu gosto de insistir em coisas triviais e não tenho nada melhor para fazer.\n - Você"</item>
+        <item>"OK, vou ter que recorrer a medidas drásticas agora.\n Auto destruição em 5 toques…"</item>
+        <item>"Auto destruição em 4 toques…"</item>
+        <item>"Auto destruição em 3 toques…"</item>
+        <item>"Auto destruição em 2 toques…"</item>
+        <item>"Auto destruição em 1 toque…"</item>
+    </string-array>
+</resources>
